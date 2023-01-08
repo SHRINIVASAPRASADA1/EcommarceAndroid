@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>990355535533-e4rfbk7h0psn4rtm5dfb0012hct8v3ir.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.990355535533-e4rfbk7h0psn4rtm5dfb0012hct8v3ir</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>990355535533-31tlnkn7prvse54362lg9peiaqc2pdml.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCV-RNneOmTqej8myDXM_I2jjGL1JPy8g0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>990355535533</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myvendor</string>
+	<key>PROJECT_ID</key>
+	<string>projectecomarce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>projectecomarce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:990355535533:ios:2e0d061a418958974df824</string>
+	<key>DATABASE_URL</key>
+	<string>https://projectecomarce-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
